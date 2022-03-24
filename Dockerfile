@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-#changes
+
 # Install dependencies
 RUN apt-get update && \
  apt-get -y install apache2
